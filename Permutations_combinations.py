@@ -1,3 +1,4 @@
+#Using Python’s itertools, we can generate all possible arrangements or selections of a set of items
 import itertools
 
 elements = ['a', 'b', 'c']
