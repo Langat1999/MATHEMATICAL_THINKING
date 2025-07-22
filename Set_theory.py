@@ -14,3 +14,4 @@ print("Set B:", B)
 print("Union:", union_set)
 print("Intersection:", intersection_set)
 print("Difference (A - B):", difference_set)
+print("Difference (B - A):", B.difference(A))  # Alternatively: B - A
